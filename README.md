@@ -63,3 +63,14 @@ https://github.com/Jama-Barre-hub/computer-fundamentals-quiz
 📧 Email: barreadanjamac2@gmail.com
 
 GitHub: https://github.com/Jama-Barre-hub
+
+---
+
+## 📈 GitHub Statistics
+
+![Jama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jama-Barre-hub&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jama-Barre-hub&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jama-Barre-hub&theme=tokyonight)
+
