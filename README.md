@@ -67,9 +67,7 @@ GitHub: https://github.com/Jama-Barre-hub
 ---
 
 ## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jama-Barre-hub&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jama-Barre-hub&layout=compact&theme=github_dark&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jama-Barre-hub&theme=tokyonight)
 
 ---
